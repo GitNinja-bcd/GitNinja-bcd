@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Deepanshi
-- 👀 I’m interested in projects related to frontend development and C++.
-- 🌱 I’m learning data science and ml, data structure, and algorithm.
-- 💞️ I’m looking to collaborate on projects related to web dev.
-- 📫 Feel free to email me at codelinguist45@gmail.com for any inquiries or collaborations.
-- 😄 Pronouns: She
-- ⚡ Fun fact:  When I'm not coding, you can often find me immersed in graphic design, crafting eye-catching visuals and refining user interfaces. 
+👋 Hi, I’m **Deepanshi**
+
+💻 I’m passionate about building scalable and user-friendly applications through **Frontend** and **Full Stack Development**, and I enjoy solving problems using **C++**.
+
+🌱 Also, I’m exploring **Data Science, Machine Learning, and Data Structures & Algorithms**, focusing on strengthening both my development and analytical skills.
+
+🤝 I’m open to collaborating on **web development projects**, especially those that blend creativity with real-world impact.
+
+📫 Reach me at: **[sabrandeepanshi@gmail.com](mailto:sabrandeepanshi23@gmail.com)**
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: When I’m not coding, I love working on **graphic design**—creating visually engaging interfaces and enhancing user experience.
 
 
